@@ -29,7 +29,7 @@ const questions = [
     },
     {
         question: "Q3/12: Yay cafenya sepi hari ini, pilihan tempat duduknya banyak. Kamu akan duduk dimana?",
-        image: "pic/menu.gif",
+        image: "pic/Q3.gif",
         answers: {
             E: {
                 text: "Duduk di mana aja",
