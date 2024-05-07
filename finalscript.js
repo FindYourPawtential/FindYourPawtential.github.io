@@ -1,7 +1,7 @@
 const questions = [
     {
         question: "Q1/12: Hari ini panas banget, rasanya enak nih kalau ngadem di kafe!",
-        image: "pic/",
+        image: "pic/Q1.gif",
         answers: {
             E: {
                 text: "Ngajak temen",
