@@ -190,13 +190,13 @@ const resultOptions = {
         image: "Item.png"
     },
     "ESTP": {
-        image: "Oyen.png"
+        image: "hasil-oyen.png"
     },
     "ESFP": {
-        image: "Oyen.png"
+        image: "hasil-oyen.png"
     },
     "ENFP": {
-        image: "Oyen.png"
+        image: "hasil-oyen.png"
     },
     "ENTP": {
         image: "Siamese.png"
