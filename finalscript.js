@@ -85,6 +85,7 @@ const questions = [
     },
     {
         question: "Q7/12: Menyadari kondisi ini, apa yang akan kamu lakukan?",
+        image: "pic/exit.gif",
         answers: {
             N: {
                 text: "Panik dulu habis itu baru cari cara untuk keluar",
@@ -98,6 +99,7 @@ const questions = [
     },
     {
         question: "Q8/12: Sesampainya kamu di pintu keluar, kamu membuka pintu tersebut dan di balik pintu ada dimensi lain bentuknya angker seperti di suatu hutan terkutuk",
+        image: "pic/portal.gif",
         answers: {
             S: {
                 text: "Hutannya kelihatan lebih angker tapi terlihat lebih ‘aman’ daripada di kafe, jadi kamu segera masuk ke hutan tersebut",
