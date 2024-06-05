@@ -113,6 +113,7 @@ const questions = [
     },
     {
         question: "Q9/12: Mengapa kamu menjelajahi hutan tersebut?",
+        image: "pic/Pertanyaan 9.gif",
         answers: {
             S: {
                 text: "Menjelajahi untuk memastikan hutannya aman",
