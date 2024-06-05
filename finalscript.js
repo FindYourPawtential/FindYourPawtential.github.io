@@ -172,28 +172,28 @@ const questions = [
 
 const resultOptions = {
     "ISTJ": {
-        image: "Item.png"
+        image: "hasil-item.png"
     },
     "ISFJ": {
-        image: "Putih.png"
+        image: "hasil-putih.png"
     },
     "INFJ": {
-        image: "Calico.png"
+        image: "hasil-calico.png"
     },
     "INTJ": {
-        image: "Item.png"
+        image: "hasil-item.png"
     },
     "ISTP": {
-        image: "Item.png"
+        image: "hasil-item.png"
     },
     "ISFP": {
-        image: "Putih.png"
+        image: "hasil-putih.png"
     },
     "INFP": {
-        image: "Siamese.png"
+        image: "hasil-siamese.png"
     },
     "INTP": {
-        image: "Item.png"
+        image: "hasil-item.png"
     },
     "ESTP": {
         image: "hasil-oyen.png"
@@ -205,19 +205,19 @@ const resultOptions = {
         image: "hasil-oyen.png"
     },
     "ENTP": {
-        image: "Siamese.png"
+        image: "hasil-siamese.png"
     },
     "ESTJ": {
-        image: "Siamese.png"
+        image: "hasil-siamese.png"
     },
     "ESFJ": {
-        image: "Putih.png"
+        image: "hasil-putih.png"
     },
     "ENFJ": {
-        image: "Siamese.png"
+        image: "hasil-siamese.png"
     },
     "ENTJ": {
-        image: "Siamese.png"
+        image: "hasil-siamese.png"
     },
 }
 
