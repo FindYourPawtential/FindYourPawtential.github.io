@@ -113,7 +113,7 @@ const questions = [
     },
     {
         question: "Q9/12: Mengapa kamu menjelajahi hutan tersebut?",
-        image: "pic/Q9.gif",
+        image: "pic/Q9.GIF",
         answers: {
             S: {
                 text: "Menjelajahi untuk memastikan hutannya aman",
@@ -127,7 +127,7 @@ const questions = [
     },
     {
         question: "Q10/12: Saat berjalan kamu mendengar ada yang memanggilmu. kamu mengikuti arah suaranya dan menemukan asal suara itu. Sebuah pohon tua besar dengan wajah menyeramkan memanggilmu untuk mendekatinya, apa yang kamu lakukan?",
-        image: "pic/Q10.gif",
+        image: "pic/Q10.GIF",
         answers: {
             J: {
                 text: "Mendekati dengan ragu-ragu",
@@ -142,7 +142,7 @@ const questions = [
     },
     {
         question: "Q11/12: Pohon tua itu memberitahu kamu bahwa ada dua cara untuk keluar dari hutan ini. Kamu akan memilih cara?",
-        image: "pic/Q11.gif",
+        image: "pic/Q11.GIF",
         answers: {
             J: {
                 text: "Mengambil rute yang jauh dengan mengikuti petunjuk arah yang ada di hutan untuk menuju pintu exit",
@@ -156,7 +156,7 @@ const questions = [
     },
     {
         question: "Q12/12: POOF kamu terbangun di kafe, sepertinya kamu telah tertidur saat menunggu pesanan datang. Kamu beranjak dari tempat dudukmu dan ketika ingin keluar dari kafe ada sesuatu menghentikanmu, seorang “pelayan” yang merupakan alien. “Pelayan” itu memberimu dua pilihan, mana yang akan kamu pilih?",
-        image: "pic/Q12.gif",
+        image: "pic/Q12.GIF",
         answers: {
             P: {
                 text: "Melanjutkan petualangan",
